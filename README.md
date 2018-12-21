@@ -1,1 +1,1 @@
-# hhspam20
+# newaccspambot
